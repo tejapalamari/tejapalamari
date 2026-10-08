@@ -1,6 +1,6 @@
 # Hi, I'm Teja
 
-Senior Site Reliability Engineer based in Southlake, TX. I work on AWS and hybrid environments, with a focus on infrastructure as code(Terraform), Kubernetes, release automation, and observability.
+Senior Site Reliability Engineer based in Southlake, TX. I work on AWS and hybrid environments, with a focus on infrastructure as code (Terraform), Kubernetes, release automation, and observability.
 
 - AWS Certified Solutions Architect - Associate
 - HashiCorp Certified: Terraform Associate
